@@ -1,6 +1,6 @@
 {
   "name": "react-native-expo-chat-elements",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "description": "components to chat",
   "main": "./lib/module/index.js",
   "types": "./lib/typescript/src/index.d.ts",
